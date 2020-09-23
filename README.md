@@ -1,4 +1,4 @@
-# day2bacth3
+# day2batch3
 
 hello everyone
 This is the second day of training. 
