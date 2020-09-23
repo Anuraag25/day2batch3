@@ -2,4 +2,4 @@
 
 hello everyone
 This is the second day of training. 
-this is the final day
+this is the final day of training.
